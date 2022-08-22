@@ -25,7 +25,7 @@ int main () {
     int answer = i_num + i_2; // sum the 2 integers
 
     printf("%d + %d = %d \n", i_num, i_2, answer); // print multiple of the same data type in a singular line
-
+    
     // multi-dimensional arrays
     // constant size of 10
     const int m_a[10][10] = {{1, 2, 3, 4, 5, 6, 7, 8, 9, 0}, {1, 2, 3, 4, 5, 6, 7, 8, 9, 0}}; // 2 dimensions

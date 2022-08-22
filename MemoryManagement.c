@@ -26,5 +26,7 @@ int main () {
 
     realloc(MyArray, 20); // change the length of the array from 10 to 20
 
+    getchar(); // allow us to read the console
+
     return 0;
 }

@@ -4,5 +4,6 @@
 
 int main () {
     printf("Hello world \n");
+    getchar(); // allow us to read the console
     return 0;
 }

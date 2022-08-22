@@ -9,5 +9,7 @@ int main () {
 
     printf("Nice to mee you, %s !", s_input);
 
+    getchar(); // allow us to read the console
+
     return 0;
 }

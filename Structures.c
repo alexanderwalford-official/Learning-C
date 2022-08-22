@@ -34,5 +34,7 @@ int main () {
     struct myStruct struct_2; // define new local memory referance instance 
     struct_2 = struct_1; // copy the values
 
+    getchar(); // allow us to read the console
+
     return 0;
 }

@@ -22,6 +22,8 @@ int main () {
         sin(x)	Returns the sine of x (x is in radians)
         tan(x)	Returns the tangent of an angle
     */
+
+   getchar(); // allow us to read the console
     
     return 0;
 }
